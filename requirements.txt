@@ -2,7 +2,7 @@
 tensorflow==2.10.0
 opencv-python-headless>=4.8.0
 mediapipe>=0.10.0
-
+libgl1
 numpy
 pandas
 scikit-learn>=1.3.0
