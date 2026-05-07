@@ -1,14 +1,12 @@
 
 tensorflow==2.10.0
-
+opencv-python-headless
 mediapipe>=0.10.0
-libgl1
 numpy
 pandas
 scikit-learn>=1.3.0
 
 matplotlib>=3.7.0
 plotly>=5.15.0
-
 streamlit
 Pillow>=10.0.0
